@@ -36,7 +36,7 @@ function Header() {
                         <div> <ul>Line : psn1996 </ul></div>
                         <div> <ul>Phone : 0839944886 </ul></div>
                         <div className="rounded-xl shadow-2xl mx-auto max-w-md m-5 size-40">
-                            <img src="..\assets\linecontact.jpg" alt="line" sizes="50%"></img>
+                            <img src="..\src\assets\linecontact.jpg" alt="line" sizes="50%"></img>
                         </div>
                         
                     </p>
