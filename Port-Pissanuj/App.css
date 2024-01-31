@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* header h1{
+  width: 300px; 
+  height: 100px; 
+  text-align: center;
+} */
+
+/* header p{
+  text-align: end;
+  color: #E0CCBE;
+  font-size: 2rem;
+} */
+
+header {
+  background:#333;
+  color: beige;
+
+}
+
+footer{
+  background:#333;
+  padding: 2rem;
+  text-align: center;
+  color: beige;
+}
+
+main {
+  background:#E0CCBE;
+  padding: 15rem;
+
+
+}
+
+main h3 {
+ margin-bottom: 2rem;
+}
